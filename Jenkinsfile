@@ -1,4 +1,4 @@
-node('slavenode') 
+node('slavebranch') 
 {
     stage('Continuous Download') 
 	{
